@@ -1,0 +1,30 @@
+.container{
+    background: rgb(225, 224, 224);
+    height: 84vh;
+}
+.container h1{
+    text-align: center !important;
+}
+.navbar{
+    background: #7952b3 !important;
+    font-weight: 600;
+}
+.nav-link:hover{
+    background: #FFE484;
+    border-radius: 5px;
+    color: black !important;
+}
+.credit{
+    background: #7952b3;
+    color: whitesmoke;
+    font-size: 20px;
+}
+label{
+    font-weight: 700;
+    font-size: 20px;
+}
+.credit span{
+    color: #FFE484;
+    cursor: pointer;
+    font-weight: 600;
+}
